@@ -1,0 +1,25 @@
+# ninja log v6
+3	100	7937724257139646	CMakeFiles/callbacks.dir/main.cpp.obj.ddi	544120e4f23747b5
+104	127	7937724258340108	CMakeFiles/callbacks.dir/CXX.dd	1ca6020f99170bb8
+104	127	7937724258340108	C:/Users/john2/Downloads/callbacks/cmake-build-debug/CMakeFiles/callbacks.dir/CXXModules.json	1ca6020f99170bb8
+104	127	7937724258340108	CMakeFiles/callbacks.dir/main.cpp.obj.modmap	1ca6020f99170bb8
+128	643	7937724258390174	CMakeFiles/callbacks.dir/main.cpp.obj	70aa86011ed5d609
+643	821	7937724263543823	callbacks.exe	eb3ad8c8802a86f5
+3	90	7937727068440716	CMakeFiles/callbacks.dir/main.cpp.obj.ddi	544120e4f23747b5
+96	115	7937727069367888	CMakeFiles/callbacks.dir/CXX.dd	1ca6020f99170bb8
+96	115	7937727069367888	C:/Users/john2/Downloads/callbacks/cmake-build-debug/CMakeFiles/callbacks.dir/CXXModules.json	1ca6020f99170bb8
+96	115	7937727069367888	CMakeFiles/callbacks.dir/main.cpp.obj.modmap	1ca6020f99170bb8
+115	572	7937727069568631	CMakeFiles/callbacks.dir/main.cpp.obj	70aa86011ed5d609
+573	706	7937727074139400	callbacks.exe	eb3ad8c8802a86f5
+3	86	7937730181632579	CMakeFiles/callbacks.dir/main.cpp.obj.ddi	544120e4f23747b5
+88	107	7937730182472192	CMakeFiles/callbacks.dir/CXX.dd	1ca6020f99170bb8
+88	107	7937730182472192	C:/Users/john2/Downloads/callbacks/cmake-build-debug/CMakeFiles/callbacks.dir/CXXModules.json	1ca6020f99170bb8
+88	107	7937730182472192	CMakeFiles/callbacks.dir/main.cpp.obj.modmap	1ca6020f99170bb8
+108	543	7937730182681082	CMakeFiles/callbacks.dir/main.cpp.obj	70aa86011ed5d609
+543	643	7937730187027206	callbacks.exe	eb3ad8c8802a86f5
+2	93	7937738564868747	CMakeFiles/callbacks.dir/main.cpp.obj.ddi	544120e4f23747b5
+99	118	7937738565847402	CMakeFiles/callbacks.dir/CXX.dd	1ca6020f99170bb8
+99	118	7937738565847402	C:/Users/john2/Downloads/callbacks/cmake-build-debug/CMakeFiles/callbacks.dir/CXXModules.json	1ca6020f99170bb8
+99	118	7937738565847402	CMakeFiles/callbacks.dir/main.cpp.obj.modmap	1ca6020f99170bb8
+118	830	7937738566033637	CMakeFiles/callbacks.dir/main.cpp.obj	70aa86011ed5d609
+830	936	7937738573155931	callbacks.exe	eb3ad8c8802a86f5
